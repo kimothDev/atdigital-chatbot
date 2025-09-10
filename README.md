@@ -14,7 +14,7 @@ This chatbot allows users to ask questions about AT Digital’s services, team, 
 ---
 
 ## Getting Started
-1. Clone the repository or open the notebook directly in Colab:
+1. Clone the repository or open the notebook directly in [Colab](https://colab.research.google.com/drive/1e-ybi4sEcIqHnRX3FJnDyQiJZ-FPiuxh?usp=sharing):
  ```bash
    git clone https://github.com/kimothDev/atdigital-chatbot.git
   ```
