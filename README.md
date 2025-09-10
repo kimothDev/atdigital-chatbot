@@ -7,10 +7,9 @@ A simple **CLI chatbot** that answers questions using content from AT Digital’
 ## Overview
 This chatbot allows users to ask questions about AT Digital’s services, team, blog, and contact info. It returns the most relevant page content along with the source.
 
-- **Dataset:** AT Digital website JSON (included in the repository).  
+- **Dataset:** AT Digital website JSON.  
 - **Embeddings:** Generated locally using Hugging Face’s `sentence-transformers` model [`all-MiniLM-L6-v2`](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2).  
-- **Interface:** CLI loop in a Colab notebook.  
-- **Requirements:** Fully free; no OpenAI API key needed for this version.
+- **Interface:** CLI loop in a Colab notebook.
 
 ---
 
